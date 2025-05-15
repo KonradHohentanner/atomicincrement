@@ -1,0 +1,17 @@
+{
+    "8_traces": {
+        "top_1_accuracy": "1.67%",
+        "top_5_accuracy": "8.03%",
+        "top_10_accuracy": "22.47%"
+    },
+    "16_traces": {
+        "top_1_accuracy": "4.16%",
+        "top_5_accuracy": "17.89%",
+        "top_10_accuracy": "38.72%"
+    },
+    "32_traces": {
+        "top_1_accuracy": "12.78%",
+        "top_5_accuracy": "36.81%",
+        "top_10_accuracy": "59.61%"
+    }
+}
